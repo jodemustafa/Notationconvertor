@@ -2,7 +2,7 @@
 #define NOTATIONCONVERTERINTERFACE_H
 
 #include <string>
-
+1
 class NotationConverterInterface
 {
 public:
